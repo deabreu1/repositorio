@@ -1,0 +1,31 @@
+/* index */
+.container {
+    margin-top: 50px;
+}
+.logo {
+    border-radius: 10px;
+}
+.Titulo { text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(34, 22, 136);
+    font-size: 300%;
+    }
+.form-label {
+    margin: auto;
+    font-size: 130%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*marcas */
+.titulomarcas { text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(34, 22, 136);
+    font-size: 300%;
+}
+.col-4 { 
+    text-align: center;
+    margin-top: 3%;
+}
+.mm {
+    width: 150px; height: 150px;
+}
