@@ -15,6 +15,11 @@
     font-size: 130%;
     font-family: Arial, Helvetica, sans-serif;
 }
+.carousel-item{
+    width: 70px;
+    height: 70px;
+
+}
 
 /*marcas */
 .titulomarcas { text-align: center;
