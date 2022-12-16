@@ -4,9 +4,6 @@
 }
 .logo {
     border-radius: 10px;
-    -webkit-transition: 1s linear;
-    transition: 1s linear;
-    background-color: #2980B9;
 }
 .Titulo { text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
