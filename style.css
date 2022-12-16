@@ -29,3 +29,7 @@
 .mm {
     width: 150px; height: 150px;
 }
+/* ubicacion */
+.col-4 {
+    margin: auto;
+}
