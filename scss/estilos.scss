@@ -4,9 +4,18 @@
 }
 .logo {
     border-radius: 15px;
+    border: 5px solid #ccc;
+    float: left;
+    margin: 15px;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+}
+.logo :hover {
+    margin-top: 2px;
 }
 
-.Titulo { 
+.Titulo {
     color: rgb(0, 57, 245);
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
