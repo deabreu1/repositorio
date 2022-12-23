@@ -18,10 +18,12 @@
 }
 
 /*marcas */
-.titulomarcas { text-align: center;
+.titulomarcas { 
+    text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(34, 22, 136);
     font-size: 300%;
+
 }
 .col-4 { 
     text-align: center;
@@ -35,3 +37,8 @@
 /* contacto */
 
 /* quienes somos */
+.pquienes{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
