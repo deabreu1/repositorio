@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deabreu1/repositorio/issues"
+    "url": "https://github.com/deabreu1/PF-DEABREU/issues"
   },
-  "homepage": "https://github.com/deabreu1/repositorio#readme",
+  "homepage": "https://github.com/deabreu1/PF-DEABREU#readme",
   "dependencies": {
     "node-sass": "^8.0.0"
   }
