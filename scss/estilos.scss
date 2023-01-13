@@ -7,7 +7,7 @@
 }
 
 .Titulo {
-    color: rgb(0, 57, 245);
+    color: rgb(0, 0, 0);
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 300%;
@@ -15,7 +15,7 @@
 
 /*marcas */
 .titulomarcas { 
-    color: rgb(0, 57, 245);
+    color: rgb(0, 0, 0);
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 300%;
@@ -30,18 +30,8 @@
 /* ubicacion */
 
 /* contacto */
-.formcontainer {
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    color:rgb(0, 53, 226);
-}
-
 
 /* quienes somos */
-p {
+.lead {
     color: aqua;
-}
-
-@media screen and (min-width: 800px){
-.botas {text-align: center;
-       }
 }
